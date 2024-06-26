@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firaflash" alt="firaflash" /></a> </p>
 
-- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT, C++ , C# , JAVA**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT , C# , JAVA**
 
 - 📝 I regularly write articles on [https://t.me/forcoder](https://t.me/forcoder)
 
