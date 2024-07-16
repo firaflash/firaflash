@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FIRAOL FEYISA</h1>
 <h3 align="center">A passionate  developer from ETHIOPIA</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firaflash&label=PROFILE+VIEWS" alt="firaflash" /> </p><p align="left"> <a href="https://twitter.com/fira__flash" target="blank"><img src="https://img.shields.io/twitter/follow/fira__flash?logo=twitter&style=for-the-badge" alt="firaflash" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firaflash&label=PROFILE+VIEWS" alt="firaflash" /> </p><p align="left"> <a href="https://www.instagram.com/firaflash/" target="blank"><img src="https://img.shields.io/twitter/follow/firaflash?logo=twitter&style=for-the-badge" alt="firaflash" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firaflash" alt="firaflash" /></a> </p>
 
 - 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT, C# , JAVA**
