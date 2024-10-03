@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm FIRAOL FEYISA</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <h1 align="center">Hi 👋, I'm FIRAOL FEYISA</h1>
 <h3 align="center">A passionate  developer from ETHIOPIA</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firaflash&label=PROFILE+VIEWS" alt="firaflash" /> </p><p align="left"> <a href="https://www.instagram.com/firaflash/" target="blank"><img src="https://img.shields.io/twitter/follow/firaflash?logo=twitter&style=for-the-badge" alt="firaflash" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firaflash" alt="firaflash" /></a> </p>
@@ -22,10 +30,13 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/firaflash/my-journey-becoming-full-time-software-developer-challenges-growth-success"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/firaflash" /></a></p><br><br>
-
+<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firaflash&show_icons=true&locale=en&layout=compact" alt="firaflash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firaflash&show_icons=true&locale=en" alt="firaflash" /></p>
 
 <hr>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=firaflash" alt="GitHub Streak" /></a>
+</body>
+</html>
