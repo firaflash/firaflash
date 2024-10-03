@@ -26,3 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firaflash&show_icons=true&locale=en&layout=compact" alt="firaflash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firaflash&show_icons=true&locale=en" alt="firaflash" /></p>
+
+<hr>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=firaflash" alt="GitHub Streak" /></a>
